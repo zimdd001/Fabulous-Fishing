@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SandboxForest.unity
+    guid: 892df05f4609c72458c2056b79cbd426
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 6a8cd06343546ca42a1c2d2edf09caca
+  - enabled: 1
+    path: Assets/Scenes/Winter_1.unity
+    guid: c0eb95a4e00a5d940b706259693771fc
+  - enabled: 1
+    path: Assets/Scenes/Winter_2.unity
+    guid: 99416c6fa2a9fd141997dacc68d92294
+  - enabled: 1
+    path: Assets/Scenes/Winter_3.unity
+    guid: 16c20cfdb4f18184491bb22ea8408e6c
+  - enabled: 1
+    path: Assets/Scenes/Winter_4.unity
+    guid: ea6fbabc5bccb484faff0cc9909cbf84
+  - enabled: 1
+    path: Assets/Scenes/Winter_5.unity
+    guid: b02953752dbaf5041a141be9e9bb14e4
+  - enabled: 1
+    path: Assets/Scenes/Winter_6.unity
+    guid: f9b852dac8fd57446abdd10ea5b01465
+  - enabled: 1
+    path: Assets/Scenes/Winter_7.unity
+    guid: 52a819533119e2d4691751ec7bf6dc5b
+  - enabled: 1
+    path: Assets/Scenes/Winter_8.unity
+    guid: 1b46d1efcbb07ca49a6436597cf50208
+  - enabled: 1
+    path: Assets/Scenes/Winter_9.unity
+    guid: 26059d6f63062374b917d48e5103949a
+  - enabled: 1
+    path: Assets/Scenes/Winter_10.unity
+    guid: 51b3d2d74c8d20e4da50458c0c092ca5
+  - enabled: 1
+    path: Assets/Scenes/Forest_1.unity
+    guid: a4aef2d8e8d70e148994b4366038e28b
+  - enabled: 1
+    path: Assets/Scenes/Forest_2.unity
+    guid: 32fb35063a90dca42a7ba8e793d9aec2
+  - enabled: 1
+    path: Assets/Scenes/Forest_3.unity
+    guid: a7a78532527bb80498a4b8b1deb8d3ef
+  - enabled: 1
+    path: Assets/Scenes/Forest_4.unity
+    guid: 1745fc390a16207409fd1e87be5b02c0
+  - enabled: 1
+    path: Assets/Scenes/Forest_5.unity
+    guid: 414b0503125da5248ad431d59d7bc6b7
+  - enabled: 1
+    path: Assets/Scenes/Beach 1.unity
+    guid: 84f2dc1f4ea14924caa350af782630cb
+  - enabled: 1
+    path: Assets/Scenes/Beach 2.unity
+    guid: 1b9911b2d65bf254996bd99d8b601c37
+  - enabled: 1
+    path: Assets/Scenes/Beach 3.unity
+    guid: 6ebec19e2c6b73243961ff60820adde7
+  - enabled: 1
+    path: Assets/Scenes/Beach 4.unity
+    guid: 083d965c2a0389d4bbed81cf6adf7411
+  - enabled: 1
+    path: Assets/Scenes/Beach 5.unity
+    guid: 812930709c8a749468e38dddaba9450a
+  - enabled: 1
+    path: Assets/Scenes/Aquarium_1.unity
+    guid: d9e02527e6244904c8f8abd2a5c892a8
+  - enabled: 1
+    path: Assets/Scenes/Aquarium_2.unity
+    guid: 02063020185ad0f4380e1585ef88fab8
+  - enabled: 1
+    path: Assets/Scenes/Aquarium_3.unity
+    guid: 85464108955846b4c9d6e9384f8dd95b
+  - enabled: 1
+    path: Assets/Scenes/Aquarium_4.unity
+    guid: 6b22fc4194d328141bb5cb657f93a346
+  - enabled: 1
+    path: Assets/Scenes/Aquarium_5.unity
+    guid: eaf4abcbcf8faed4eb6384e7adec43f3
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: aa95ea39a44090e408f3aae09f11e765
+  - enabled: 0
+    path: Assets/Scenes/BonusLevel.unity
+    guid: 9636cf17b70ea65449b83aaadbf702ae
+  - enabled: 0
+    path: Assets/Scenes/Sandbox Beach.unity
+    guid: e9843c25898942f4aba8ef0937e9fd46
+  - enabled: 0
+    path: Assets/Scenes/SandboxAquarium.unity
+    guid: 2209efad6faed594ea456065169a5584
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
